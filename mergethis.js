@@ -4,6 +4,7 @@ function conflict(a, b, c){
 	var conflict = a+b+c+d;
 	console.log(conflict);
 }
+Test dois
 conflct(1,2,3);
 
 
